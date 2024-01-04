@@ -27,3 +27,7 @@ if __name__ == '__main__':
 ## Important Note
 Decryption is not supported for SHA256 and MD5. Attempting to decrypt these hashes will display a message indicating that decryption is not supported.
 Feel free to explore and use this simple Hash Encrypt/Decrypt GUI for your text encryption needs!
+
+### Created by
+* Amjad Ali
+* Aniket Jain
